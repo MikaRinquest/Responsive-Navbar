@@ -1,0 +1,38 @@
+/* CSS Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Navbar */
+
+#navbar {
+  width: 300px;
+  color: blueviolet;
+}
+
+/* Sections */
+
+#landing {
+  height: 100vh;
+}
+
+#about {
+  color: black;
+  height: 100vh;
+}
+
+#testimonials {
+  height: 100vh;
+}
+
+#projects {
+  color: black;
+  height: 100vh;
+}
+
+#contacts {
+  height: 100vh;
+}
